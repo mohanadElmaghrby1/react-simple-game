@@ -31,4 +31,4 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 
 ### `Project preview`
-![Alt text](public\preview.PNG?raw=true "Title")
+![Alt text](https://raw.githubusercontent.com/mohanadElmaghrby1/react-simple-game/main/public/preview.PNG "Title")
